@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Nguyen Ngoc Thien
-- 👀 I’m interested in Linux distributions
-- 🌱 I’m currently learning at Nguyen Tri Phuong Secondary School in Hue, Vietnam
-
+- Hi, I’m Nguyen Ngoc Thien
+- I’m interested in open-source softwares and Linux distributions.
+- I’m currently learning at Nguyen Tri Phuong Secondary School in Hue, Vietnam and having a coding course in FPT FUNiX School.
+- I'm not slim but not fat, with a quite balance BMI.
+- Now, I'm working for Kode, which is an open organization which include the students or pupils that are interested with IT and always burn the midnight oil to code.
