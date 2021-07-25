@@ -10,7 +10,7 @@
     <li><b> 🏠 Working from home with no salary!</b></li>
 </ul>
 <p align="center">
-<a href="https://fb.com/nguyennt.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="definev" height="20" width="20" /></a>
- <a href="https://www.youtube.com/channel/UCYoOY_rN08MnNQs3RlVVlJw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/youtube.svg" alt="definev" height="20" width="20" /></a>
- <a href="mailto:kakangocthien109@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/gmail.svg" alt="definev" height="20" width="20" /></a>
+<a href="https://fb.com/nguyennt.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="definev" height="30" width="30"/></a>
+ <a href="https://www.youtube.com/channel/UCYoOY_rN08MnNQs3RlVVlJw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/youtube.svg" alt="definev" height="30" width="30" /></a>
+ <a href="mailto:kakangocthien109@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/gmail.svg" alt="definev" height="30" width="30" /></a>
 </p>
