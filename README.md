@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋!</h1>
-<h3 align="center">I'm Nguyen N. Thien, and thanks for reading this</h3><br>
+<h3 align="center">I'm Nguyen N. Thien, a Front-end Developer at Kode Organization</h3><br>
 <h2 align="left">Basic information:</h2>
 <ul>
     <li><b> 🔤 Full name:</b> Nguyen Ngoc Thien</li>
