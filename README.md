@@ -7,7 +7,7 @@
     <li><b> 🏢 Company:</b> Kode Organization [kodelang.dev]</li>
     <li><b> 🏫 Education:</b> <br>Nguyen Tri Phuong Secondary School<br>FUNiX University</li>
     <li><b> 💻 Private projects:</b> Can be found at github.com/kakangocthien109</li>
-    <li><b> 🏠 Working from home with no salary!</b></li>
+    <li><b> 🏠 Working from home with no salary!</b></li> 
 </ul>
 <p align="center">
 <a href="https://fb.com/nguyennt.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="definev" height="30" width="30"/></a>
