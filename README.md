@@ -9,10 +9,9 @@ let kakangocthien109 = {
   birthday: 2009,
   emailContact: "kakangocthien109@gmail.com",
   facebook: "nguyennt.dev",
-  twitter: "quocthinhvo",
-  myBlog: "https://quocthinhvo.github.io",
+  myBlog: "https://kakascorner.tk",
   from: "Kode",
-  school: "Tran Van Thoi High School"
+  school: "Nguyen Tri Phuong Secondary School"
 }
 ```
 
