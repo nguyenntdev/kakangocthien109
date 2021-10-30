@@ -3,7 +3,6 @@
 <p align="center">
 <a href="https://facebook.com/nguyennt.dev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a>  <a href="https://gitlab.com/kakangocthien109"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab"></a>  <a href="mailto:kakangocthien109@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>  <a href="https://nguyennt.pages.dev"><img src="https://img.shields.io/badge/kaka&#39;s%20corner-000000?style=for-the-badge&amp;logo=About.me&amp;logoColor=white" alt="Kaka&#39;s Corner"></a><a href="https://replit.com/@nguyenntdev"> <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=kakangocthien109&color=red&style=flat-square&label=PROFILE+VIEWS" width="130px">
 </p>
 
 <h2 align="center">Welcome to my GitHub profile, let's take a brief look!</h2>
