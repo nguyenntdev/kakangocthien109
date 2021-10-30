@@ -16,7 +16,7 @@
 
 📄 I have some Certifications for <b>Google Cloud Platform Training Day</b>, organized by <b><a href="https://www.cloud-ace.com/">Cloud Ace</a></b>.
 
-🧑‍💻 Now, I'm learning about programming in <b><a href="https://global.funix.edu.vn/en/home/">FUNiX</a></b> and <b><a href="https://fct-club.com/">FCT Club</a></b>. I'm also an intern in <b><a href="https://3si.vn">3S Hue Intersoft</a></b>.
+🧑‍💻 Now, I'm learning about programming in <b><a href="https://global.funix.edu.vn/en/home/">FUNiX</a></b> and <b><a href="https://fct-club.com/">FCT Club</a></b>. I'm also an intern at <b><a href="https://3si.vn">3S Hue Intersoft</a></b>.
 
 🚀 Languages and Frameworks
 <p align="center">
