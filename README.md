@@ -9,7 +9,7 @@
 
 🏫 I'm a student at Nguyen Tri Phuong Secondary School in Hue City, Vietnam. 
 
-💥 I'm passion of programming, listening to music and playing badminton.
+💥 I'm passionate about programming, listening to music, and playing badminton.
 
 📕 My favorite book is <b>"The Power of Your Subconscious Mind"</b> by <b><a href="https://en.wikipedia.org/wiki/Joseph_Murphy_(author)">Joseph Murphy</a></b>.
 
