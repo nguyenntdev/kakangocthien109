@@ -7,7 +7,7 @@
 
 <h2 align="center">Welcome to my GitHub profile, let's take a brief look!</h2>
 
-🏫 I'm a student at Nguyen Tri Phuong Secondary School in Hue City, Vietnam. 
+🏫 I'm a student at Nguyen Tri Phuong Secondary School in Hue City, Vietnam.
 
 💥 I'm passionate about programming, listening to music, and playing badminton.
 
@@ -25,13 +25,11 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
- 
+
 💁 If you need any help or questions, just ask me through my contacts.
 
 📈 My GitHub Stats
-<p align="center"><a href=""><img src="https://github-readme-stats.vercel.app/api?username=nguyenntdev&show_icons=true" alt="nguyenntdev&#39;s GitHub stats"></a></p>
+<p align="center"><a href=""><img src="https://github-readme-stats.vercel.app/api?username=nguyenntdev&show_icons=true" alt="nguyenntdev's GitHub stats"></a></p>
 
 <hr>
 <h2 align="center">That's all, have a nice day ✋</h2>
-
-
